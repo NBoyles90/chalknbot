@@ -1,3 +1,5 @@
+// Author: Nikki Collins
+// Date: 05/11
 const chalk = require('chalk');
 
 console.log(chalk.greenBright('Hello world!'));
